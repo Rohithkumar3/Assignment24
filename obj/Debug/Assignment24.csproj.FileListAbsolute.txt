@@ -1,0 +1,7 @@
+C:\simplilearn\Day-19\Assignment24\Assignment24\bin\Debug\Assignment24.exe.config
+C:\simplilearn\Day-19\Assignment24\Assignment24\bin\Debug\Assignment24.exe
+C:\simplilearn\Day-19\Assignment24\Assignment24\bin\Debug\Assignment24.pdb
+C:\simplilearn\Day-19\Assignment24\Assignment24\obj\Debug\Assignment24.csproj.AssemblyReference.cache
+C:\simplilearn\Day-19\Assignment24\Assignment24\obj\Debug\Assignment24.csproj.CoreCompileInputs.cache
+C:\simplilearn\Day-19\Assignment24\Assignment24\obj\Debug\Assignment24.exe
+C:\simplilearn\Day-19\Assignment24\Assignment24\obj\Debug\Assignment24.pdb
